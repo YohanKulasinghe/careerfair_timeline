@@ -13,8 +13,8 @@
   position: absolute;
   background-color: rgba(158, 158, 158, 0.1);
   width: 139px;
-  height: 60px;
-  top: -70px;
+  height: 100px;
+  top: -110px;
   left: -15px;
   border-radius: 5px;
   box-shadow: inset 0 0 5px rgba(158, 158, 158, 0.64)
@@ -24,7 +24,7 @@
   position: absolute;
   background-color: rgba(158, 158, 158, 0.1);
   width: 139px;
-  height: 60px;
+  height: 100px;
   left: -105px;
   top: 33px;
   border-radius: 5px;
